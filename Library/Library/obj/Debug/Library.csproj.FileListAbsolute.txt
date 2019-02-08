@@ -1,0 +1,17 @@
+d:\users\17654\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.exe.config
+D:\users\17654\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.exe
+D:\users\17654\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.pdb
+D:\users\17654\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\users\17654\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.exe
+D:\users\17654\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.pdb
+E:\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.exe.config
+E:\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.exe
+E:\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.pdb
+E:\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.exe
+E:\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.pdb
+E:\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.Program.resources
+E:\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.Menu.resources
+E:\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.NewMember.resources
+E:\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.PrintMembers.resources
